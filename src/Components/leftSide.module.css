@@ -1,0 +1,9 @@
+.main_table {
+  width: auto;
+  margin: 5rem 2rem;
+}
+
+.outer {
+  display: flex;
+  flex-direction: row;
+}
